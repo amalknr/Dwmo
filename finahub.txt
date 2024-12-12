@@ -1,0 +1,23 @@
+server optimization techniques
+----------------------------------
+optimize loop
+garbage collection
+avoid writing long methods
+use primitive types
+minimize object creation
+
+---------------------------------
+
+Difference between http and https
+-----------------------------------
+
+HTTPS is a more secure version of HTTP
+
+Encryption mechanism makes https as secured
+
+
+HashMap allows one null key and multiple null values whereas Hashtable doesn't allow any null key or value.
+
+A list is a one-dimensional arrangement of data, and a table is a two-dimensional arrangement of data
+
+increase stack size and optimize code
